@@ -1,0 +1,33 @@
+
+/* inline images */
+.icon-cat1 {
+    background-image: url("./icon.png");
+}
+
+.icon-cat2 {
+    background-image: url("icon.png");
+}
+
+.icon-cat3 {
+    background-image: url(./icon.png);
+}
+
+.icon-cat4 {
+    background-image: url(icon.png);
+}
+
+.icon-cat5 {
+    background-image: url('icon.png');
+}
+
+.icon-cat6 {
+    background-image: url('./icon.png');
+}
+
+.icon-cat6 {
+    background-image: url('invalid.path.jng');
+}
+
+body {
+    font-size: 20px;
+}

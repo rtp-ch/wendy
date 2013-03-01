@@ -1,0 +1,18 @@
+{
+    "name": "wendy",
+    "version": "0.13.2",
+    "description": "Some rework plugins to manipulate css",
+    "keywords": ["css", "manipulation", "preprocess", "transform"],
+    "author": "Manuel Stofer <manuelstofer@gmail.com>",
+    "bin": {
+        "wendy": "./bin/wendy.js"
+    },
+    "dependencies": {
+        "commander": "*",
+        "rework": "*",
+        "mime": "*",
+        "underscore": "*",
+        "bytes": "*"
+    },
+    "main": "index"
+}
