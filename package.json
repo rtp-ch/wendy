@@ -1,6 +1,6 @@
 {
     "name": "wendy",
-    "version": "0.13.2",
+    "version": "0.0.2",
     "description": "Some rework plugins to manipulate css",
     "keywords": ["css", "manipulation", "preprocess", "transform"],
     "author": "Manuel Stofer <manuelstofer@gmail.com>",
