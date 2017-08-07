@@ -1,6 +1,0 @@
-deploy:
-  provider: npm
-  email: "info@rtp.ch"
-  api_key: "cnRwOjlEPz9nQkNxR01senszV082TA=="
-  on:
-    tags: true
